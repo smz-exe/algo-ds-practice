@@ -1,0 +1,10 @@
+numpy
+matplotlib
+networkx
+scipy
+pandas
+jupyter
+pytest
+seaborn
+sympy
+heapdict
